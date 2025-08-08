@@ -1,9 +1,10 @@
 {
-  "name": "react_calculator",
+  "homepage": "https://2411Ankita.github.io/react-calculator",
+  "name": "react-calculator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://2411Ankita.github.io/react-calculator",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
